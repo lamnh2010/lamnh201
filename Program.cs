@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SandboxProject
 {
@@ -7,6 +7,7 @@ namespace SandboxProject
     static void Main()
     {
       Console.WriteLine("Hello World!");
+      int number = 0;
     }
   }
 }

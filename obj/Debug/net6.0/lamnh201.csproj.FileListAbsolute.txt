@@ -1,0 +1,15 @@
+/Users/hoanglamnguyen/lamnh201/bin/Debug/net6.0/lamnh201
+/Users/hoanglamnguyen/lamnh201/bin/Debug/net6.0/lamnh201.deps.json
+/Users/hoanglamnguyen/lamnh201/bin/Debug/net6.0/lamnh201.runtimeconfig.json
+/Users/hoanglamnguyen/lamnh201/bin/Debug/net6.0/lamnh201.dll
+/Users/hoanglamnguyen/lamnh201/bin/Debug/net6.0/lamnh201.pdb
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.csproj.AssemblyReference.cache
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.AssemblyInfoInputs.cache
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.AssemblyInfo.cs
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.csproj.CoreCompileInputs.cache
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.dll
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/refint/lamnh201.dll
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.pdb
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/lamnh201.genruntimeconfig.cache
+/Users/hoanglamnguyen/lamnh201/obj/Debug/net6.0/ref/lamnh201.dll

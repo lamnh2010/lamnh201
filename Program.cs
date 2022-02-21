@@ -10,7 +10,7 @@ namespace SandboxProject
       string password = Console.ReadLine();
       int passwordint =  password.Length;
       if (passwordint < 10)
-      
+
       {
         Console.WriteLine("Enter more word please.");
       }
@@ -22,7 +22,7 @@ namespace SandboxProject
       {
         Console.WriteLine("To many my man.");
       }
-
+      Console.WriteLine("Enter more word please.");
     }
   }
 } 

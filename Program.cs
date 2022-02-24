@@ -20,9 +20,10 @@ namespace SandboxProject
       }
       else 
       {
-        Console.WriteLine("To many my man.");
+        Console.WriteLine("To many my man."); 
+                                              
       }
-      Console.WriteLine("Enter more word please.");
+       Console.WriteLine("Conflict ddi ban oi")
     }
   }
 } 
